@@ -1,0 +1,74 @@
+html{
+    scroll-behavior: smooth ;
+}
+.navbar {
+    letter-spacing: 3px;
+    font-size: 27px;
+    margin: auto;
+    background-color: #EFC635;
+    color: black;
+
+}
+li{
+    color: black;
+}
+.body{
+    background-color: #D4470A;
+}
+.menuText{
+    text-transform: uppercase;
+    color: #D4470A;
+}
+
+#carousel{
+    background-color: #D4470A;
+}
+#whoAreWe{
+    background-color: #D4470A;
+
+}
+#menu{
+    background-color: #EFC635;
+
+}
+
+#img {
+    width: 100px;
+    height: 84;
+}
+#navigationbar {
+    margin-top: 20px;
+}
+#buyBox{
+    background-color: #EFC635;
+}
+span{
+    font-weight: bold;
+}
+.buttonClası{
+    margin-left: 35rem;
+}
+.carousel.inner>.item>img {
+    width: 40%;
+    margin: auto;
+}
+
+.hr1 {
+    margin-top: 5px;
+}
+.navbar ul li p{
+    color: black;
+}
+.navbar ul li span{
+    color: black;
+}
+@font-face {
+    font-family: roboto;
+    src: url(roboto.medium.ttf);
+}
+
+@media only screen and (max-width:1023px){
+    .buttonClası{
+        margin-left: 5rem;
+    }
+}
